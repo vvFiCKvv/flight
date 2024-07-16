@@ -6,6 +6,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+**/**/bin
+**/**/build
+.gradle
 
 .gradle
 ### NetBeans ###

@@ -3,5 +3,8 @@ plugins {
 }
 rootProject.name = "flight"
 
-include("applications", "components")
+
+include("applications:scrapping")
+
+
 
